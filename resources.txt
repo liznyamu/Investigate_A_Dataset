@@ -1,0 +1,5 @@
+Calculate Pandas DataFrame Time Difference Between Two Columns in Hours and Minutes - http://bit.ly/2HE1c5X
+
+How to implement 'in' and 'not in' for Pandas dataframe - http://bit.ly/2JRLZmT 
+
+Correct way to set value on a slice in pandas - http://bit.ly/2y7fyMN
